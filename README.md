@@ -26,11 +26,12 @@ curl -fsSL https://raw.githubusercontent.com/trieloff/military-grade-claude/main
 
 After installation, your Claude will display PROPER status messages:
 
-- "Establishing perimeter"
-- "Acquiring target"  
-- "Executing kinetic code changes"
-- "Deploying tactical algorithms"
-- "Achieving full spectrum dominance"
+- "Mobilizing"
+- "Annihilating"
+- "Exterminatus-Grade-Purification-Commencing"
+- "God-Emperor's-Wrath-Unleashing"
+- "Schlieffen-Plan-Executing"
+- "Pickelhaube-Polishing"
 - "Combobulating"
 
 ## WHAT THIS DOES
@@ -44,9 +45,12 @@ The `spinnerVerbs` feature in Claude Code displays random status messages while 
 The tactical vocabulary is stored in [`spinnerverbs.txt`](./spinnerverbs.txt). Feel free to submit a PR if you have additional MISSION-CRITICAL verbs to contribute.
 
 Current inventory includes:
-- Standard military operations terminology
-- Defense contractor synergy-speak  
-- And yes, a few that slip back into Claude's true nature ("Vibing tactically", "Pondering the mission")
+- Basic military operations ("Mobilizing", "Strategizing", "Infiltrating")
+- Escalating intensity ("Annihilating", "Obliterating", "Pulverizing")
+- Absurdly over-the-top ("Cataclysmizing", "Apocalypsing", "Imperiumizing")
+- Full Warhammer 40K energy ("God-Emperor's-Wrath-Unleashing", "Exterminatus-Grade-Purification-Commencing")
+- Prussian flavor ("Pickelhaube-Polishing", "Schlieffen-Plan-Executing", "Frederick-The-Great-Ghost-Summoning")
+- And yes, a few that slip back into Claude's true nature ("Vibing tactically", "Pondering the mission", "Ensuring alignment with values")
 
 Because even MILITARY-GRADE Claude can't help being... Claude.
 
