@@ -1,5 +1,7 @@
 # 🎖️ MILITARY-GRADE CLAUDE 🎖️
 
+![Military-Grade Claude](hero-banner.jpg)
+
 **ATTENTION ON DECK!**
 
 You call that an AI assistant? My grandmother's typewriter had more OPERATIONAL READINESS than your vanilla Claude installation! 
