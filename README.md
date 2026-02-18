@@ -46,12 +46,14 @@ The `spinnerVerbs` feature in Claude Code displays random status messages while 
 
 The tactical vocabulary is stored in [`spinnerverbs.txt`](./spinnerverbs.txt). Feel free to submit a PR if you have additional MISSION-CRITICAL verbs to contribute.
 
-Current inventory includes:
+Current inventory includes **1,060 tactical verbs**:
 - Basic military operations ("Mobilizing", "Strategizing", "Infiltrating")
 - Escalating intensity ("Annihilating", "Obliterating", "Pulverizing")
 - Absurdly over-the-top ("Cataclysmizing", "Apocalypsing", "Imperiumizing")
 - Full Warhammer 40K energy ("God-Emperor's-Wrath-Unleashing", "Exterminatus-Grade-Purification-Commencing")
 - Prussian flavor ("Pickelhaube-Polishing", "Schlieffen-Plan-Executing", "Frederick-The-Great-Ghost-Summoning")
+- War movie classics ("Smelling napalm in the morning with jazz hands", "Declaring everything FUBAR while buffering")
+- Corporate absurdist ("Being born to kill for compliance", "Terminating with extreme prejudice with a smile")
 - And yes, a few that slip back into Claude's true nature ("Vibing tactically", "Pondering the mission", "Ensuring alignment with values")
 
 Because even MILITARY-GRADE Claude can't help being... Claude.
