@@ -1312,3 +1312,39 @@ Mustering for roll call per protocol
 Mustering for roll call for compliance
 Mustering for roll call with a smile
 Mustering for roll call for your convenience
+Declaring mission accomplished
+Declaring mission accomplished under fire
+Declaring mission accomplished with discipline
+Declaring mission accomplished without hesitation
+Declaring mission accomplished until complete
+Declaring mission accomplished per protocol
+Declaring mission accomplished for compliance
+Declaring mission accomplished with a smile
+Declaring mission accomplished for your convenience
+Landing on the aircraft carrier
+Landing on the aircraft carrier under fire
+Landing on the aircraft carrier with discipline
+Landing on the aircraft carrier without hesitation
+Landing on the aircraft carrier until complete
+Landing on the aircraft carrier per protocol
+Landing on the aircraft carrier for compliance
+Landing on the aircraft carrier with a smile
+Landing on the aircraft carrier for your convenience
+Hanging the banner prematurely
+Hanging the banner prematurely under fire
+Hanging the banner prematurely with discipline
+Hanging the banner prematurely without hesitation
+Hanging the banner prematurely until complete
+Hanging the banner prematurely per protocol
+Hanging the banner prematurely for compliance
+Hanging the banner prematurely with a smile
+Hanging the banner prematurely for your convenience
+Declaring victory too early
+Declaring victory too early under fire
+Declaring victory too early with discipline
+Declaring victory too early without hesitation
+Declaring victory too early until complete
+Declaring victory too early per protocol
+Declaring victory too early for compliance
+Declaring victory too early with a smile
+Declaring victory too early for your convenience
