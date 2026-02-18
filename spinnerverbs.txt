@@ -1222,3 +1222,93 @@ Waiting for ZDv approval per protocol
 Waiting for ZDv approval for compliance
 Waiting for ZDv approval with a smile
 Waiting for ZDv approval for your convenience
+Waiting for the G36 to cool down
+Waiting for the G36 to cool down under fire
+Waiting for the G36 to cool down with discipline
+Waiting for the G36 to cool down without hesitation
+Waiting for the G36 to cool down until complete
+Waiting for the G36 to cool down per protocol
+Waiting for the G36 to cool down for compliance
+Waiting for the G36 to cool down with a smile
+Waiting for the G36 to cool down for your convenience
+Mounting broomstick launchers
+Mounting broomstick launchers under fire
+Mounting broomstick launchers with discipline
+Mounting broomstick launchers without hesitation
+Mounting broomstick launchers until complete
+Mounting broomstick launchers per protocol
+Mounting broomstick launchers for compliance
+Mounting broomstick launchers with a smile
+Mounting broomstick launchers for your convenience
+Counting missing tank parts
+Counting missing tank parts under fire
+Counting missing tank parts with discipline
+Counting missing tank parts without hesitation
+Counting missing tank parts until complete
+Counting missing tank parts per protocol
+Counting missing tank parts for compliance
+Counting missing tank parts with a smile
+Counting missing tank parts for your convenience
+Driving the Saab to the Kasino
+Driving the Saab to the Kasino under fire
+Driving the Saab to the Kasino with discipline
+Driving the Saab to the Kasino without hesitation
+Driving the Saab to the Kasino until complete
+Driving the Saab to the Kasino per protocol
+Driving the Saab to the Kasino for compliance
+Driving the Saab to the Kasino with a smile
+Driving the Saab to the Kasino for your convenience
+Waiting for Feierabend
+Waiting for Feierabend under fire
+Waiting for Feierabend with discipline
+Waiting for Feierabend without hesitation
+Waiting for Feierabend until complete
+Waiting for Feierabend per protocol
+Waiting for Feierabend for compliance
+Waiting for Feierabend with a smile
+Waiting for Feierabend for your convenience
+Polishing the tank that wont start
+Polishing the tank that wont start under fire
+Polishing the tank that wont start with discipline
+Polishing the tank that wont start without hesitation
+Polishing the tank that wont start until complete
+Polishing the tank that wont start per protocol
+Polishing the tank that wont start for compliance
+Polishing the tank that wont start with a smile
+Polishing the tank that wont start for your convenience
+Attending the Dienstbesprechung
+Attending the Dienstbesprechung under fire
+Attending the Dienstbesprechung with discipline
+Attending the Dienstbesprechung without hesitation
+Attending the Dienstbesprechung until complete
+Attending the Dienstbesprechung per protocol
+Attending the Dienstbesprechung for compliance
+Attending the Dienstbesprechung with a smile
+Attending the Dienstbesprechung for your convenience
+Filling out the B-plan
+Filling out the B-plan under fire
+Filling out the B-plan with discipline
+Filling out the B-plan without hesitation
+Filling out the B-plan until complete
+Filling out the B-plan per protocol
+Filling out the B-plan for compliance
+Filling out the B-plan with a smile
+Filling out the B-plan for your convenience
+Submitting T-5 requisitions
+Submitting T-5 requisitions under fire
+Submitting T-5 requisitions with discipline
+Submitting T-5 requisitions without hesitation
+Submitting T-5 requisitions until complete
+Submitting T-5 requisitions per protocol
+Submitting T-5 requisitions for compliance
+Submitting T-5 requisitions with a smile
+Submitting T-5 requisitions for your convenience
+Mustering for roll call
+Mustering for roll call under fire
+Mustering for roll call with discipline
+Mustering for roll call without hesitation
+Mustering for roll call until complete
+Mustering for roll call per protocol
+Mustering for roll call for compliance
+Mustering for roll call with a smile
+Mustering for roll call for your convenience
